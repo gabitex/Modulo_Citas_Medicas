@@ -1,0 +1,14 @@
+C:\ArquiPro\bin\Debug\net10.0\ArquiPro.exe
+C:\ArquiPro\bin\Debug\net10.0\ArquiPro.deps.json
+C:\ArquiPro\bin\Debug\net10.0\ArquiPro.runtimeconfig.json
+C:\ArquiPro\bin\Debug\net10.0\ArquiPro.dll
+C:\ArquiPro\bin\Debug\net10.0\ArquiPro.pdb
+C:\ArquiPro\obj\Debug\net10.0\ArquiPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\ArquiPro\obj\Debug\net10.0\ArquiPro.AssemblyInfoInputs.cache
+C:\ArquiPro\obj\Debug\net10.0\ArquiPro.AssemblyInfo.cs
+C:\ArquiPro\obj\Debug\net10.0\ArquiPro.csproj.CoreCompileInputs.cache
+C:\ArquiPro\obj\Debug\net10.0\ArquiPro.dll
+C:\ArquiPro\obj\Debug\net10.0\refint\ArquiPro.dll
+C:\ArquiPro\obj\Debug\net10.0\ArquiPro.pdb
+C:\ArquiPro\obj\Debug\net10.0\ArquiPro.genruntimeconfig.cache
+C:\ArquiPro\obj\Debug\net10.0\ref\ArquiPro.dll

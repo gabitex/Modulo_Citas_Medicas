@@ -1,0 +1,14 @@
+C:\ArquiPro\bin\Debug\net10.0\ModuloCitas.exe
+C:\ArquiPro\bin\Debug\net10.0\ModuloCitas.deps.json
+C:\ArquiPro\bin\Debug\net10.0\ModuloCitas.runtimeconfig.json
+C:\ArquiPro\bin\Debug\net10.0\ModuloCitas.dll
+C:\ArquiPro\bin\Debug\net10.0\ModuloCitas.pdb
+C:\ArquiPro\obj\Debug\net10.0\ModuloCitas.GeneratedMSBuildEditorConfig.editorconfig
+C:\ArquiPro\obj\Debug\net10.0\ModuloCitas.AssemblyInfoInputs.cache
+C:\ArquiPro\obj\Debug\net10.0\ModuloCitas.AssemblyInfo.cs
+C:\ArquiPro\obj\Debug\net10.0\ModuloCitas.csproj.CoreCompileInputs.cache
+C:\ArquiPro\obj\Debug\net10.0\ModuloCitas.dll
+C:\ArquiPro\obj\Debug\net10.0\refint\ModuloCitas.dll
+C:\ArquiPro\obj\Debug\net10.0\ModuloCitas.pdb
+C:\ArquiPro\obj\Debug\net10.0\ModuloCitas.genruntimeconfig.cache
+C:\ArquiPro\obj\Debug\net10.0\ref\ModuloCitas.dll
